@@ -1,1 +1,0 @@
-Project to build the clothing store using HTML, CSS and Javascript
